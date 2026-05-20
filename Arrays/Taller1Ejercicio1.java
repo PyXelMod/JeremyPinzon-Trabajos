@@ -1,4 +1,4 @@
-package Taller1;
+package Arrays;
 
 import java.util.Arrays;
 import java.util.Scanner;
